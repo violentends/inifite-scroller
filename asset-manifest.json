@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inifite-scroller/static/css/main.3ba3ad1e.chunk.css",
+    "main.js": "/inifite-scroller/static/js/main.65e6945e.chunk.js",
+    "main.js.map": "/inifite-scroller/static/js/main.65e6945e.chunk.js.map",
+    "runtime-main.js": "/inifite-scroller/static/js/runtime-main.871b5811.js",
+    "runtime-main.js.map": "/inifite-scroller/static/js/runtime-main.871b5811.js.map",
+    "static/js/2.05a87141.chunk.js": "/inifite-scroller/static/js/2.05a87141.chunk.js",
+    "static/js/2.05a87141.chunk.js.map": "/inifite-scroller/static/js/2.05a87141.chunk.js.map",
+    "index.html": "/inifite-scroller/index.html",
+    "precache-manifest.0500f756ca5d91eb25feff52fbbfc9a2.js": "/inifite-scroller/precache-manifest.0500f756ca5d91eb25feff52fbbfc9a2.js",
+    "service-worker.js": "/inifite-scroller/service-worker.js",
+    "static/css/main.3ba3ad1e.chunk.css.map": "/inifite-scroller/static/css/main.3ba3ad1e.chunk.css.map",
+    "static/js/2.05a87141.chunk.js.LICENSE.txt": "/inifite-scroller/static/js/2.05a87141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.871b5811.js",
+    "static/js/2.05a87141.chunk.js",
+    "static/css/main.3ba3ad1e.chunk.css",
+    "static/js/main.65e6945e.chunk.js"
+  ]
+}
