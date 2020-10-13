@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.lazyImage {
+  background: #eeccee;
+  min-height: 33vh;
+  width: 50vw;
+  margin: auto;
+}
+
+.lazyImage > img{
+  width: 50vw;
+  background: #eeccee;
+  min-height: 33vh;
+}
